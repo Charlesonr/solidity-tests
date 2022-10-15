@@ -40,6 +40,7 @@ contract NestedMapping {
         nested[_addr1][_i] = _boo;
     }
 
+    // remove
     function remove(address _addr1, uint _i) public {
         delete nested[_addr1][_i];
     }
