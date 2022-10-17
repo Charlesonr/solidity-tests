@@ -1,3 +1,3 @@
 # Solidity-tests
 
-Some functions on Solidity
+Some functions on Solidity!
